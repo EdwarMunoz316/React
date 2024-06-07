@@ -30,6 +30,8 @@ const WINNER_COMBOS = [
   [2, 4, 6],
 ]
 
+console.log('xd')
+
 function App() {
   const [ board, setBoard ] = useState(Array(9).fill(null));
 
