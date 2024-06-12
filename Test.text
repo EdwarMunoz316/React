@@ -1,0 +1,12 @@
+INSTALAR EN EL PROYECTO
+
+npm init playwright@latest
+  - JavaScript
+  - tests
+  - false
+  - yes
+
+
+INICIAR TEST
+
+  npx playwright test

@@ -10,10 +10,6 @@ main {
     font-family: system-ui;
 }
 
-
-/* 
-Para Fila
-
 section {
     display: flex;
     justify-content: space-between;
@@ -21,7 +17,8 @@ section {
     gap: 2rem;
 }
 
-section img {
+img {
     max-width: 320px;
     height: auto;
-} */
+    margin: 10px;
+}

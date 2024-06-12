@@ -1,51 +1,28 @@
-import { useEffect, useState } from "react"
 import './App.css'
-
-const CAT_ENDPOINT_RANDOM_FACT = `https://catfact.ninja/fact`
-// const CAT_ENDPOINT_IMAGE_URL = `https://cataas.com/cat/says/${firstWord}`
-const CAT_PREFIX_IMAGE_URL = 'https://cataas.com'
+import { useCatImage } from "./hooks/useCatImage.js"
+import { useCatFact } from './hooks/useCatFact.js'
+import { Otro } from './components/Otro.jsx'
 
 export function App () {
-    const [fact, setFact] = useState()
-    const [imageUrl, setImageUrl] = useState()
+    const { fact, refreshFact } = useCatFact()
+    const { imageUrl } = useCatImage({ fact })
+    
 
-    const getRandomFact = () => {
-        fetch(CAT_ENDPOINT_RANDOM_FACT)
-            .then(res => res.json())
-            .then(data => {
-                const { fact } = data
-                setFact(fact)
-            })
-    }
+const CAT_PREFIX_IMAGE_URL = 'https://cataas.com'
 
-    useEffect(getRandomFact, [])
-
-    useEffect(() => {
-        if (!fact) return
-
-        // const thereeFirstWord = fact.split(' ').slice(0, 3).join(' ')
-        const thereeFirstWord = fact.split(' ', 3).join(' ')
-
-        fetch(`https://cataas.com/cat/says/${thereeFirstWord}?size=50&color=red&json=true`)
-            .then(res => res.json())
-            .then(response => {
-                const { _id } = response
-                setImageUrl(`/cat/${_id}/says/${thereeFirstWord}`)
-            })
-    }, [fact])
-
-    const handleClick = () => {
-        getRandomFact()
+    const handleClick = async () => {
+        refreshFact()
     }
 
     return (
         <main>
             <h1>App de gatos</h1>
             <button onClick={handleClick}>Get new fact</button>
-            {/* <section> */}
+            <section>
                 {fact && <p>{fact}</p>}
-                {imageUrl && <img src={`${CAT_PREFIX_IMAGE_URL}${imageUrl}`} alt={`Image extracted using the first three words for ${fact}`} />}
-            {/* </section> */}
+                {imageUrl && <img src={imageUrl} alt={`Image extracted using the first three words for ${fact}`} />}
+            </section>
+            {/* <Otro /> */}
         </main>
     )
 }
