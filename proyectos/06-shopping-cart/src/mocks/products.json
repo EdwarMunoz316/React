@@ -10,7 +10,7 @@
           "stock":54,
           "brand":"Golden",
           "category":"home-decoration",
-          "thumbnail":"https://i.dummyjson.com/data/products/30/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1604445415362-2a9840bd5ff6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwzfHxLZXklMjBIb2xkZXJ8ZW58MHx8fHwxNzE4MzcwMTQ0fDA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/30/1.jpg",
              "https://i.dummyjson.com/data/products/30/2.jpg",
@@ -28,7 +28,7 @@
           "stock":83,
           "brand":"Apple",
           "category":"laptops",
-          "thumbnail":"https://i.dummyjson.com/data/products/6/thumbnail.png",
+          "thumbnail":"https://images.unsplash.com/photo-1517336714731-489689fd1ca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxNYWNCb29rJTIwUHJvfGVufDB8fHx8MTcxODM3MjU3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/6/1.png",
              "https://i.dummyjson.com/data/products/6/2.jpg",
@@ -46,7 +46,7 @@
           "stock":34,
           "brand":"Apple",
           "category":"smartphones",
-          "thumbnail":"https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1565714138558-4d2eaa7cea34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw5fHxpUGhvbmUlMjBYfGVufDB8fHx8MTcxODM3MjYxN3ww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/2/1.jpg",
              "https://i.dummyjson.com/data/products/2/2.jpg",
@@ -64,7 +64,7 @@
           "stock":36,
           "brand":"Samsung",
           "category":"smartphones",
-          "thumbnail":"https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwzfHxTYW1zdW5nJTIwfGVufDB8fHx8MTcxODM3MjY1MXww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/3/1.jpg"
           ]
@@ -79,7 +79,7 @@
           "stock":123,
           "brand":"OPPO",
           "category":"smartphones",
-          "thumbnail":"https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1609388449750-b504ef6d97f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxPUFBPfGVufDB8fHx8MTcxODM3MjY3M3ww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/4/1.jpg",
              "https://i.dummyjson.com/data/products/4/2.jpg",
@@ -98,7 +98,7 @@
           "stock":32,
           "brand":"Huawei",
           "category":"smartphones",
-          "thumbnail":"https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1587114372189-d922d13df6c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw1fHxIdWF3ZWklMjBQMzB8ZW58MHx8fHwxNzE4MzcyNjg2fDA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/5/1.jpg",
              "https://i.dummyjson.com/data/products/5/2.jpg",
@@ -115,7 +115,7 @@
           "stock":50,
           "brand":"Samsung",
           "category":"laptops",
-          "thumbnail":"https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1611407019488-0a354195b618?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw3fHxTYW1zdW5nJTIwR2FsYXh5fGVufDB8fHx8MTcxODM3MjcxMXww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/7/1.jpg",
              "https://i.dummyjson.com/data/products/7/2.jpg",
@@ -133,7 +133,7 @@
           "stock":94,
           "brand":"Apple",
           "category":"smartphones",
-          "thumbnail":"https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1595523740578-cad549e7d6d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwyfHxpUGhvbmUlMjA5fGVufDB8fHx8MTcxODM3MjczMHww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/1/1.jpg",
              "https://i.dummyjson.com/data/products/1/2.jpg",
@@ -152,7 +152,7 @@
           "stock":68,
           "brand":"Microsoft Surface",
           "category":"laptops",
-          "thumbnail":"https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1484788984921-03950022c9ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxNaWNyb3NvZnQlMjBTdXJmYWNlJTIwTGFwdG9wJTIwNHxlbnwwfHx8fDE3MTgzNzI3NDh8MA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/8/1.jpg",
              "https://i.dummyjson.com/data/products/8/2.jpg",
@@ -171,13 +171,13 @@
           "stock":96,
           "brand":"Infinix",
           "category":"laptops",
-          "thumbnail":"https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1696877983046-7429e0a6a8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw3fHxJbmZpbml4JTIwSU5CT09LfGVufDB8fHx8MTcxODM3Mjc2NHww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/9/1.jpg",
              "https://i.dummyjson.com/data/products/9/2.png",
              "https://i.dummyjson.com/data/products/9/3.png",
              "https://i.dummyjson.com/data/products/9/4.jpg",
-             "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1696877983046-7429e0a6a8f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw3fHxJbmZpbml4JTIwSU5CT09LfGVufDB8fHx8MTcxODM3Mjc2NHww&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -190,7 +190,7 @@
           "stock":89,
           "brand":"HP Pavilion",
           "category":"laptops",
-          "thumbnail":"https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+          "thumbnail":"https://http2.mlstatic.com/D_NQ_NP_677932-MLA48623945685_122021-O.webp",
           "images":[
              "https://i.dummyjson.com/data/products/10/1.jpg",
              "https://i.dummyjson.com/data/products/10/2.jpg",
@@ -208,7 +208,7 @@
           "stock":65,
           "brand":"Impression of Acqua Di Gio",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/11/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1587304189829-5fff89ba0c4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw2fHxwZXJmdW1lJTIwT2lsfGVufDB8fHx8MTcxODM3MjgyNnww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/11/1.jpg",
              "https://i.dummyjson.com/data/products/11/2.jpg",
@@ -226,13 +226,13 @@
           "stock":52,
           "brand":"Royal_Mirage",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/12/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1547887537-6158d64c35b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwyfHxCcm93biUyMFBlcmZ1bWV8ZW58MHx8fHwxNzE4MzcyODQxfDA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/12/1.jpg",
              "https://i.dummyjson.com/data/products/12/2.jpg",
              "https://i.dummyjson.com/data/products/12/3.png",
              "https://i.dummyjson.com/data/products/12/4.jpg",
-             "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1547887537-6158d64c35b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwyfHxCcm93biUyMFBlcmZ1bWV8ZW58MHx8fHwxNzE4MzcyODQxfDA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -245,13 +245,13 @@
           "stock":61,
           "brand":"Fog Scent Xpressio",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/13/thumbnail.webp",
+          "thumbnail":"https://images.unsplash.com/photo-1541643600914-78b084683601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxMHx8Rm9nJTIwU2NlbnQlMjBYcHJlc3NpbyUyMFBlcmZ1bWV8ZW58MHx8fHwxNzE4MzcyODU3fDA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/13/1.jpg",
              "https://i.dummyjson.com/data/products/13/2.png",
              "https://i.dummyjson.com/data/products/13/3.jpg",
              "https://i.dummyjson.com/data/products/13/4.jpg",
-             "https://i.dummyjson.com/data/products/13/thumbnail.webp"
+             "https://images.unsplash.com/photo-1541643600914-78b084683601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxMHx8Rm9nJTIwU2NlbnQlMjBYcHJlc3NpbyUyMFBlcmZ1bWV8ZW58MHx8fHwxNzE4MzcyODU3fDA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -264,12 +264,12 @@
           "stock":114,
           "brand":"Al Munakh",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/14/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1458538977777-0549b2370168?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwyfHxOb24tQWxjb2hvbGljJTIwQ29uY2VudHJhdGVkJTIwUGVyZnVtZSUyME9pbHxlbnwwfHx8fDE3MTgzNzI4NzR8MA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/14/1.jpg",
              "https://i.dummyjson.com/data/products/14/2.jpg",
              "https://i.dummyjson.com/data/products/14/3.jpg",
-             "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1458538977777-0549b2370168?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwyfHxOb24tQWxjb2hvbGljJTIwQ29uY2VudHJhdGVkJTIwUGVyZnVtZSUyME9pbHxlbnwwfHx8fDE3MTgzNzI4NzR8MA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -282,13 +282,13 @@
           "stock":105,
           "brand":"Lord - Al-Rehab",
           "category":"fragrances",
-          "thumbnail":"https://i.dummyjson.com/data/products/15/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1605619082574-e92eee603b95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxFYXUlMjBEZSUyMFBlcmZ1bWUlMjBTcHJheXxlbnwwfHx8fDE3MTgzNzI4OTB8MA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/15/1.jpg",
              "https://i.dummyjson.com/data/products/15/2.jpg",
              "https://i.dummyjson.com/data/products/15/3.jpg",
              "https://i.dummyjson.com/data/products/15/4.jpg",
-             "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1605619082574-e92eee603b95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxFYXUlMjBEZSUyMFBlcmZ1bWUlMjBTcHJheXxlbnwwfHx8fDE3MTgzNzI4OTB8MA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -301,13 +301,13 @@
           "stock":110,
           "brand":"L'Oreal Paris",
           "category":"skincare",
-          "thumbnail":"https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1600180583258-6d9b0c7b782b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxIeWFsdXJvbmljJTIwQWNpZCUyMFNlcnVtfGVufDB8fHx8MTcxODM3Mjk0MXww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/16/1.png",
              "https://i.dummyjson.com/data/products/16/2.webp",
              "https://i.dummyjson.com/data/products/16/3.jpg",
              "https://i.dummyjson.com/data/products/16/4.jpg",
-             "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1600180583258-6d9b0c7b782b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxIeWFsdXJvbmljJTIwQWNpZCUyMFNlcnVtfGVufDB8fHx8MTcxODM3Mjk0MXww&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -320,12 +320,12 @@
           "stock":78,
           "brand":"Hemani Tea",
           "category":"skincare",
-          "thumbnail":"https://i.dummyjson.com/data/products/17/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1432457990754-c8b5f21448de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxUcmVlJTIwT2lsfGVufDB8fHx8MTcxODM3MzAyM3ww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/17/1.jpg",
              "https://i.dummyjson.com/data/products/17/2.jpg",
              "https://i.dummyjson.com/data/products/17/3.jpg",
-             "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1432457990754-c8b5f21448de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxUcmVlJTIwT2lsfGVufDB8fHx8MTcxODM3MzAyM3ww&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -338,13 +338,13 @@
           "stock":88,
           "brand":"Dermive",
           "category":"skincare",
-          "thumbnail":"https://i.dummyjson.com/data/products/18/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1528740561666-dc2479dc08ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwzfHxPaWwlMjBGcmVlJTIwTW9pc3R1cml6ZXIlMjAxMDBtbHxlbnwwfHx8fDE3MTgzNzMwMzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/18/1.jpg",
              "https://i.dummyjson.com/data/products/18/2.jpg",
              "https://i.dummyjson.com/data/products/18/3.jpg",
              "https://i.dummyjson.com/data/products/18/4.jpg",
-             "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1528740561666-dc2479dc08ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwzfHxPaWwlMjBGcmVlJTIwTW9pc3R1cml6ZXIlMjAxMDBtbHxlbnwwfHx8fDE3MTgzNzMwMzZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -357,12 +357,12 @@
           "stock":54,
           "brand":"ROREC White Rice",
           "category":"skincare",
-          "thumbnail":"https://i.dummyjson.com/data/products/19/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1556229162-5c63ed9c4efb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw1fHxPaWwlMjBGcmVlJTIwTW9pc3R1cml6ZXIlMjAxMDBtbHxlbnwwfHx8fDE3MTgzNzMwMzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/19/1.jpg",
              "https://i.dummyjson.com/data/products/19/2.jpg",
              "https://i.dummyjson.com/data/products/19/3.png",
-             "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1556229162-5c63ed9c4efb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw1fHxPaWwlMjBGcmVlJTIwTW9pc3R1cml6ZXIlMjAxMDBtbHxlbnwwfHx8fDE3MTgzNzMwMzZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -375,13 +375,13 @@
           "stock":140,
           "brand":"Fair & Clear",
           "category":"skincare",
-          "thumbnail":"https://i.dummyjson.com/data/products/20/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1583334529937-bc4761d2cdad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw5fHxPaWwlMjBGcmVlJTIwTW9pc3R1cml6ZXIlMjAxMDBtbHxlbnwwfHx8fDE3MTgzNzMwMzZ8MA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/20/1.jpg",
              "https://i.dummyjson.com/data/products/20/2.jpg",
              "https://i.dummyjson.com/data/products/20/3.jpg",
              "https://i.dummyjson.com/data/products/20/4.jpg",
-             "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1583334529937-bc4761d2cdad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw5fHxPaWwlMjBGcmVlJTIwTW9pc3R1cml6ZXIlMjAxMDBtbHxlbnwwfHx8fDE3MTgzNzMwMzZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -394,7 +394,7 @@
           "stock":133,
           "brand":"Saaf & Khaas",
           "category":"groceries",
-          "thumbnail":"https://i.dummyjson.com/data/products/21/thumbnail.png",
+          "thumbnail":"https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw4fHxEYWFsJTIwTWFzb29yJTIwNTAwJTIwZ3JhbXN8ZW58MHx8fHwxNzE4MzczMDczfDA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/21/1.png",
              "https://i.dummyjson.com/data/products/21/2.jpg",
@@ -411,7 +411,7 @@
           "stock":146,
           "brand":"Bake Parlor Big",
           "category":"groceries",
-          "thumbnail":"https://i.dummyjson.com/data/products/22/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1669295889162-8b64f3d1aed7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw2fHxFbGJvdyUyME1hY2Fyb25pJTIwLSUyMDQwMCUyMGdtfGVufDB8fHx8MTcxODM3MzA5M3ww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/22/1.jpg",
              "https://i.dummyjson.com/data/products/22/2.jpg",
@@ -428,13 +428,13 @@
           "stock":26,
           "brand":"Baking Food Items",
           "category":"groceries",
-          "thumbnail":"https://i.dummyjson.com/data/products/23/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1706081121737-3c3e2d676919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxPcmFuZ2UlMjBFc3NlbmNlJTIwRm9vZCUyMEZsYXZvdXxlbnwwfHx8fDE3MTgzNzMxMTN8MA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/23/1.jpg",
              "https://i.dummyjson.com/data/products/23/2.jpg",
              "https://i.dummyjson.com/data/products/23/3.jpg",
              "https://i.dummyjson.com/data/products/23/4.jpg",
-             "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1706081121737-3c3e2d676919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxPcmFuZ2UlMjBFc3NlbmNlJTIwRm9vZCUyMEZsYXZvdXxlbnwwfHx8fDE3MTgzNzMxMTN8MA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -447,13 +447,13 @@
           "stock":113,
           "brand":"fauji",
           "category":"groceries",
-          "thumbnail":"https://i.dummyjson.com/data/products/24/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1516298269955-092b585deead?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxjZXJlYWxzJTIwbXVlc2xpJTIwZnJ1aXQlMjBudXRzfGVufDB8fHx8MTcxODM3MzEyOXww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/24/1.jpg",
              "https://i.dummyjson.com/data/products/24/2.jpg",
              "https://i.dummyjson.com/data/products/24/3.jpg",
              "https://i.dummyjson.com/data/products/24/4.jpg",
-             "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1516298269955-092b585deead?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxjZXJlYWxzJTIwbXVlc2xpJTIwZnJ1aXQlMjBudXRzfGVufDB8fHx8MTcxODM3MzEyOXww&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -466,13 +466,13 @@
           "stock":47,
           "brand":"Dry Rose",
           "category":"groceries",
-          "thumbnail":"https://i.dummyjson.com/data/products/25/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1565117661210-fd54898de423?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw2fHxHdWxhYiUyMFBvd2RlciUyMDUwJTIwR3JhbXxlbnwwfHx8fDE3MTgzNzMxNjJ8MA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/25/1.png",
              "https://i.dummyjson.com/data/products/25/2.jpg",
              "https://i.dummyjson.com/data/products/25/3.png",
              "https://i.dummyjson.com/data/products/25/4.jpg",
-             "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1565117661210-fd54898de423?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw2fHxHdWxhYiUyMFBvd2RlciUyMDUwJTIwR3JhbXxlbnwwfHx8fDE3MTgzNzMxNjJ8MA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -485,7 +485,7 @@
           "stock":131,
           "brand":"Boho Decor",
           "category":"home-decoration",
-          "thumbnail":"https://i.dummyjson.com/data/products/26/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1517191434949-5e90cd67d2b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHw1fHxQbGFudCUyMEhhbmdlciUyMEZvciUyMEhvbWV8ZW58MHx8fHwxNzE4MzczMTgyfDA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/26/1.jpg",
              "https://i.dummyjson.com/data/products/26/2.jpg",
@@ -505,13 +505,13 @@
           "stock":17,
           "brand":"Flying Wooden",
           "category":"home-decoration",
-          "thumbnail":"https://i.dummyjson.com/data/products/27/thumbnail.webp",
+          "thumbnail":"https://images.unsplash.com/photo-1534212758080-135b3affa932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwyfHxGbHlpbmclMjBXb29kZW4lMjBCaXJkfGVufDB8fHx8MTcxODM3MzIwNXww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/27/1.jpg",
              "https://i.dummyjson.com/data/products/27/2.jpg",
              "https://i.dummyjson.com/data/products/27/3.jpg",
              "https://i.dummyjson.com/data/products/27/4.jpg",
-             "https://i.dummyjson.com/data/products/27/thumbnail.webp"
+             "https://images.unsplash.com/photo-1534212758080-135b3affa932?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwyfHxGbHlpbmclMjBXb29kZW4lMjBCaXJkfGVufDB8fHx8MTcxODM3MzIwNXww&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -524,13 +524,13 @@
           "stock":54,
           "brand":"LED Lights",
           "category":"home-decoration",
-          "thumbnail":"https://i.dummyjson.com/data/products/28/thumbnail.jpg",
+          "thumbnail":"https://images.unsplash.com/photo-1626543408112-e6edbc62793d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwzfHwzRCUyMEFydCUyMExhbXB8ZW58MHx8fHwxNzE4MzcyOTkyfDA&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/28/1.jpg",
              "https://i.dummyjson.com/data/products/28/2.jpg",
              "https://i.dummyjson.com/data/products/28/3.png",
              "https://i.dummyjson.com/data/products/28/4.jpg",
-             "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
+             "https://images.unsplash.com/photo-1626543408112-e6edbc62793d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwzfHwzRCUyMEFydCUyMExhbXB8ZW58MHx8fHwxNzE4MzcyOTkyfDA&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        },
        {
@@ -543,13 +543,13 @@
           "stock":7,
           "brand":"luxury palace",
           "category":"home-decoration",
-          "thumbnail":"https://i.dummyjson.com/data/products/29/thumbnail.webp",
+          "thumbnail":"https://images.unsplash.com/photo-1561394818-699dc5ac3e9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxIYW5kY3JhZnQlMjBDaGluZXNlfGVufDB8fHx8MTcxODM3Mjk3NHww&ixlib=rb-4.0.3&q=80&w=1080",
           "images":[
              "https://i.dummyjson.com/data/products/29/1.jpg",
              "https://i.dummyjson.com/data/products/29/2.jpg",
              "https://i.dummyjson.com/data/products/29/3.webp",
              "https://i.dummyjson.com/data/products/29/4.webp",
-             "https://i.dummyjson.com/data/products/29/thumbnail.webp"
+             "https://images.unsplash.com/photo-1561394818-699dc5ac3e9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTA3NTV8MHwxfHNlYXJjaHwxfHxIYW5kY3JhZnQlMjBDaGluZXNlfGVufDB8fHx8MTcxODM3Mjk3NHww&ixlib=rb-4.0.3&q=80&w=1080"
           ]
        }
     ],
